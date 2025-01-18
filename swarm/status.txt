@@ -1,1 +1,7 @@
 hi im a chotu
+
+
+git status #to check and track the files
+git add .  #to track untracked files
+git commit -m "any name"  #it will commit the changes
+git push origin main #the path of saving the branch on git
